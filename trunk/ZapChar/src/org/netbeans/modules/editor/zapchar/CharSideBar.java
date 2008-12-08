@@ -28,9 +28,9 @@ import org.openide.util.ImageUtilities;
 import org.openide.util.NbBundle;
 
 /**
- * This action installs the Firefox(TM) style Incremental Search Side Bar.
+ * This action installs the Firefox(TM) style Side Bar.
  *
- * @author Sandip V. Chitale (Sandip.Chitale@Sun.Com)
+ * @author Sandip V. Chitale (sandipchitale@gmail.com)
  */
 public final class CharSideBar extends JToolBar implements HelpCtx.Provider {
 
